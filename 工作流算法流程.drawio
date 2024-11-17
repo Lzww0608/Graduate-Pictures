@@ -4,6 +4,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-1" value="工作流算法框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="378" y="66" width="186" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;D: D&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;T&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;, D&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;V&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;, D&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;T&#39;&lt;/sub&gt;&lt;div&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;W&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;sub&gt;0&lt;/sub&gt;&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;, O, N&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;sub&gt;max&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="329" y="126" width="284" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-4" value="1-Nmax" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="269" width="182" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-5" value="Select" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="279" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-6" value="Expand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="659" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-7" value="Evaluate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-8" value="&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mtext&gt;&lt;span style=&quot;background-color: initial; font-family: Helvetica;&quot;&gt;Backpropagate&lt;/span&gt;&lt;/mtext&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;D: D&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;T&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;, D&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;V&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;, D&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;T&#39;&lt;/sub&gt;&lt;div&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;W&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;sub&gt;0&lt;/sub&gt;&lt;/span&gt;&lt;sub style=&quot;font-size: 20px;&quot;&gt;, O, N&lt;/sub&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;sub&gt;max&lt;/sub&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="16" y="497" width="284" height="86" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
