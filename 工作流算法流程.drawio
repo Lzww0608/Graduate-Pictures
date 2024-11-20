@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_IWaz8_7ypiRNUwaHyGo-1" value="工作流算法框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="378" y="66" width="186" height="41" as="geometry" />
+        <mxCell id="_IWaz8_7ypiRNUwaHyGo-1" value="蒙特卡洛搜索算法框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="342" y="66" width="258" height="41" as="geometry" />
         </mxCell>
         <mxCell id="_IWaz8_7ypiRNUwaHyGo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_IWaz8_7ypiRNUwaHyGo-3" edge="1">
           <mxGeometry relative="1" as="geometry">
